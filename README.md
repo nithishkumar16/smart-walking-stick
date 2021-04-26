@@ -3,11 +3,11 @@
 Sensors used in this project are:
 
 3 Ultrasonic sensors,
-water sensor,
-light sensor,
-gsm,
-gps,
+1 water sensor,
+1 light sensor,
+1 gsm,
+1 gps,
 1 vibrating motor,
-2 buzzers
+1 buzzer
 
 The mcirocontroller used is Arduino Uno
